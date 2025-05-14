@@ -19,5 +19,5 @@ This project analyzes and visualizes COVID-19 data from various countries, focus
 ## How to Run/View the Project
 1. Clone the repository to your local machine:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone <[repository-url](https://github.com/KellyOboso/week-8-plp-python.git)>
+   cd <dir/week-8-plp-python>
